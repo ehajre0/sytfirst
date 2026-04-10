@@ -117,4 +117,5 @@ Für Fragen oder Vorschläge, bitte öffnen Sie ein [Issue](https://github.com/e
 
 ---
 
-**Zuletzt aktualisiert**: 2026-04-10
+**Zuletzt aktualisiert**: 2026-04-10    
+
