@@ -110,12 +110,13 @@ Dieses Projekt ist unter der [MIT License](LICENSE) lizenziert. Siehe die [LICEN
 
 Für Fragen oder Vorschläge, bitte öffnen Sie ein [Issue](https://github.com/ehajre0/sytfirst/issues) oder kontaktieren Sie uns direkt.
 
-## 🙏 Danksagungen
+## 🙏 Danksagungenjjjj
 
 - Dank an alle [Communitymitglieder/Mitwirkenden]
 - Besonderer Dank an [Personen/Organisationen]
+- hhhhh
 
 ---
 
-**Zuletzt aktualisiert**: 2026-04-10    
+**Zuletzt aktualisiert**: 2026-04-10   
 
